@@ -1,0 +1,29 @@
+{
+  "ProductsList": [
+    {
+      "index": 1,
+      "name": "Herbal Moisturizing Shampoo",
+      "price": 25.18,
+      "unit": "Bottle"
+    },
+    {
+      "index": 2,
+      "name": "XXXX Conditioner",
+      "price": 15.18,
+      "unit": "Bottle"
+    },
+    {
+      "index": 3,
+      "name": "XXXX Shampoo",
+      "price": 35.18,
+      "unit": "Bottle"
+    },
+    {
+      "index": 4,
+      "name": "XXXX Hair Dye",
+      "price": 45.18,
+      "unit": "Package"
+    }
+  ]
+}
+

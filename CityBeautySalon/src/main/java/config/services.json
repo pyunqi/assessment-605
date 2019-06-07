@@ -1,0 +1,30 @@
+{
+  "ServicesList": [
+    {
+      "index": 1,
+      "name": "Cut Hair Standard",
+      "price": 30
+    },
+    {
+      "index": 2,
+      "name": "Cut Hair Advance",
+      "price": 60
+    },
+    {
+      "index": 3,
+      "name": "Wash Hair",
+      "price": 25
+    },
+    {
+      "index": 4,
+      "name": "Dyeing Hair",
+      "price": 70
+    },
+    {
+      "index": 5,
+      "name": "Perming Hair",
+      "price": 99.99
+    }
+  ]
+}
+
